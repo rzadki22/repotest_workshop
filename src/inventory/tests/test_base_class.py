@@ -2,7 +2,8 @@ import pytest
 from .. base_class import BaseProduct
 
 
-@pytest.fixture()
+
+@pytest.fixture
 def get_base_class_obj():
     x = BaseProduct("xx", 100, 1)
 
