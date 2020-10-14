@@ -2,5 +2,6 @@
 It's repo for testing/practicing purposes 
 
 ```
-test
+def test()
+  pass
 ```
